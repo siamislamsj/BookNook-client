@@ -147,7 +147,7 @@ export default function LoginPage() {
 
         <p className="mt-5 text-center text-sm muted">
           New here?{" "}
-          <Link className="text-[#713b43]" href="/register">
+          <Link className="text-[#c05e6c]" href="/register">
             Create an account
           </Link>
         </p>
