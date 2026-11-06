@@ -1,0 +1,2 @@
+export const metadata = { title: "My Profile" };
+export default function ProfileLayout({ children }) { return children; }
